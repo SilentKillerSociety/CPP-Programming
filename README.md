@@ -27,6 +27,6 @@ On Mac: Use [Clang](https://clang.llvm.org/) (comes with Xcode)
 On Linux: Install g+* (GCC Compiler)
 -
 Via Terminal:
-sudo at update
--
+sudo apt update
+
 sudo apt install g++
