@@ -1,3 +1,6 @@
+[![Banner](./C++.png)](https://en.m.wikipedia.org/wiki/C%2B%2B)
+<h1 align="center">Everything you need to know about C++</h1>
+<h3 align="center">What is C++?
 # What is C++?
 
 C++ is a powerful, general-purpose programming language created by Bjarne Stroustrup in 1983 as an extension of C.
