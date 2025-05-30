@@ -31,4 +31,5 @@ On Linux: Install g+* (GCC Compiler)
 Via Terminal:
 
 ``sudo apt update``
+
 ``sudo apt install g++``
