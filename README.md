@@ -5,13 +5,14 @@
 <p align="center">
 <a href="https://en.m.wikipedia.org/wiki/C%2B%2B">Wikipedia</a> •
 <a href="https://devdocs.io/cpp/">Documentation</a> •
+<a href="https://github.com/SilentKillerSociety/CPP-Programming/tree/main/docs/resources">Resources</a>
 </p>
 
 <h3 align="center">What is C++?</h3>
 
 C++ is a powerful, general-purpose programming language created by Bjarne Stroustrup in 1983 as an extension of C.
 
-<img align="right" alt="profile" width="400" src="./profile.png">
+<img align="right" alt="profile" width="400" src="./docs/images/profile.png">
 
 It is widely used in game development, system programming, operating systems,and embedded systems.
 
