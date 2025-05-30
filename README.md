@@ -24,8 +24,9 @@ On Android: Install [Coding C++](https://play.google.com/store/apps/details?id=c
 
 On Mac: Use [Clang](https://clang.llvm.org/) (comes with Xcode)
 
-On Linux: Install GCC Compiler
+On Linux: Install g+* (GCC Compiler)
 -
 Via Terminal:
 sudo at update
+-
 sudo apt install g++
