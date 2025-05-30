@@ -1,4 +1,4 @@
-[![Banner](./banner.png)](https://en.m.wikipedia.org/wiki/C%2B%2B)
+[![Banner](./C++.png)](https://en.m.wikipedia.org/wiki/C%2B%2B)
 <h1 align="center">Everything you need to know about C++</h1>
 <h3 align="center">What is C++?
 
@@ -7,7 +7,7 @@ C++ is a powerful, general-purpose programming language created by Bjarne Strous
 It is widely used in game development, system programming, operating systems,and embedded systems.
 
 Quick Fact: C++ combines procedural and object-oriented programming features.
-</h3>
+
 # Why C++?
 
 Efficiency: C++ provides fine control over system resources and memory.
