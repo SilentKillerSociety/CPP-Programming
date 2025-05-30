@@ -1,5 +1,8 @@
 <p align="center">
 <img src="./docs/images/banner.png" width=500alt="CPP"/>
+</p>
+
+<p align="center">
 <a href="https://en.m.wikipedia.org/wiki/C%2B%2B">Wikipedia</a> •
 <a href="https://devdocs.io/cpp/">Documentation</a> •
 </p>
