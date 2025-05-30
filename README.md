@@ -20,7 +20,7 @@ Performance: It is faster than most high-level languages like Python or Java.
 
 <h3 align="center">Setting Up Environment</h3>
 
-On Windows: Install [MinGW](https://sourceforge.net/projects/mingw/) or [Visual Studio.](https://visualstudio.microsoft.com/the)
+On Windows: Install [MinGW](https://sourceforge.net/projects/mingw/) or [Visual Studio](https://visualstudio.microsoft.com/the)
 
 On Android: Install [Coding C++](https://play.google.com/store/apps/details?id=com.kvassyu.coding2.cpp)
 
@@ -30,6 +30,5 @@ On Linux: Install g+* (GCC Compiler)
 -
 Via Terminal:
 
-sudo apt update
-
-sudo apt install g++
+``sudo apt update``
+``sudo apt install g++``
