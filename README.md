@@ -22,9 +22,9 @@ On Windows: Install [MinGW](https://sourceforge.net/projects/mingw/) or [Visual 
 
 On Android: Install [Coding C++](https://play.google.com/store/apps/details?id=com.kvassyu.coding2.cpp)
 
-On Mac: Use Clang (comes with Xcode)
+On Mac: Use [Clang](https://clang.llvm.org/) (comes with Xcode)
 
-On Linux: Install g+* (GCC Compiler)
-via terminal:
+On Linux: Install [GCC Compiler](https://gcc.gnu.org/)
+Via Terminal:
 sudo at update
 sudo apt install g++
