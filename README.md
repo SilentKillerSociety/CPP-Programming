@@ -8,7 +8,7 @@ It is widely used in game development, system programming, operating systems,and
 
 Quick Fact: C++ combines procedural and object-oriented programming features.
 
-# Why C++?
+<h3 align="center">Why C++?</h3>
 
 Efficiency: C++ provides fine control over system resources and memory.
 
@@ -16,7 +16,7 @@ Applications: Used in game engines (Unreal Engine), operating systems, IoT devic
 
 Performance: It is faster than most high-level languages like Python or Java.
 
-# Setting Up Environment
+<h3 align="center">Setting Up Environment</h3>
 
 On Windows: Install MinGW or Visual Studio.
 On Mac: Use Clang (comes with Xcode)
