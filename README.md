@@ -16,7 +16,7 @@ Applications: Used in game engines (Unreal Engine), operating systems, IoT devic
 
 Performance: It is faster than most high-level languages like Python or Java.
 
-<img align="right" alt="profile" width="400" src="./Bjarne Stroustrup.png">
+<img align="right" alt="profile" width="400" src="./profile.png">
 
 <h3 align="center">Setting Up Environment</h3>
 
