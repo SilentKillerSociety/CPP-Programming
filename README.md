@@ -1,0 +1,24 @@
+# What is C++?
+
+C++ is a powerful, general-purpose programming language created by Bjarne Stroustrup in 1983 as an extension of C.
+
+It is widely used in game development, system programming, operating systems,and embedded systems.
+
+Quick Fact: C++ combines procedural and object-oriented programming features.
+
+# Why C++?
+
+Efficiency: C++ provides fine control over system resources and memory.
+
+Applications: Used in game engines (Unreal Engine), operating systems, IoT devices, and even financial software.
+
+Performance: It is faster than most high-level languages like Python or Java.
+
+# Setting Up Environment
+
+On Windows: Install MinGW or Visual Studio.
+On Mac: Use Clang (comes with Xcode)
+On Linux: Install g+* (GCC Compiler)
+via terminal:
+sudo at update
+sudo apt install g++
