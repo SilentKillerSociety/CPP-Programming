@@ -16,6 +16,8 @@ Applications: Used in game engines (Unreal Engine), operating systems, IoT devic
 
 Performance: It is faster than most high-level languages like Python or Java.
 
+<img align="right" alt="profile" width="400" src="./Bjarne Stroustrup.png">
+
 <h3 align="center">Setting Up Environment</h3>
 
 On Windows: Install [MinGW](https://sourceforge.net/projects/mingw/) or [Visual Studio.](https://visualstudio.microsoft.com/the)
@@ -27,6 +29,7 @@ On Mac: Use [Clang](https://clang.llvm.org/) (comes with Xcode)
 On Linux: Install g+* (GCC Compiler)
 -
 Via Terminal:
+
 sudo apt update
 
 sudo apt install g++
