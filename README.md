@@ -4,6 +4,8 @@
 
 C++ is a powerful, general-purpose programming language created by Bjarne Stroustrup in 1983 as an extension of C.
 
+<img align="right" alt="profile" width="400" src="./profile.png">
+
 It is widely used in game development, system programming, operating systems,and embedded systems.
 
 Quick Fact: C++ combines procedural and object-oriented programming features.
@@ -15,8 +17,6 @@ Efficiency: C++ provides fine control over system resources and memory.
 Applications: Used in game engines (Unreal Engine), operating systems, IoT devices, and even financial software.
 
 Performance: It is faster than most high-level languages like Python or Java.
-
-<img align="right" alt="profile" width="400" src="./profile.png">
 
 <h3 align="center">Setting Up Environment</h3>
 
